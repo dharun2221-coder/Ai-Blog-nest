@@ -1,0 +1,5 @@
+PORT=5000
+MONGO_URI =mongodb+srv://dharun2221_db_user:Tharun12345@cluster0.cxxtc31.mongodb.net/Blog_nest?appName=Cluster0
+JWT_SECRET=YOUR_JWT_SECRET
+GEMINI_API_KEY=AQ.Ab8RN6Kh3va49u_GBond09l2coaDQ8CYXvQco0GyaIWymmZsJA
+GEMINI_MODEL=gemini-3.8-flash
